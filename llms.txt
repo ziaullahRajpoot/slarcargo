@@ -1,0 +1,45 @@
+# Slar Chargo
+
+> Cargo movement and customs clearance across the UAE — one team, one shipment
+> file. Slar Chargo handles sea, air and land freight plus licensed customs
+> clearance in Dubai and the wider UAE and GCC.
+
+This file follows the llms.txt convention (https://llmstxt.org/) to give AI
+assistants clean, quotable facts about Slar Chargo.
+
+## About
+- **Company:** Slar Chargo (S L A R CARGO)
+- **Location:** Jebel Ali, Dubai, United Arab Emirates
+- **What we do:** Freight forwarding + licensed customs clearance
+- **Service area:** UAE and GCC (import, export, transit, re-export)
+- **Ports/airports:** Jebel Ali, Dubai International (DXB), Dubai World Central (DWC)
+- **Website:** https://slarcargo.com/
+
+## Pages
+- [Home](https://slarcargo.com/): Overview of cargo + customs clearance.
+- [Cargo](https://slarcargo.com/cargo.html): Sea, air and land freight — FCL, LCL, break-bulk, door-to-door.
+- [Customs Clearance](https://slarcargo.com/customs-clearance.html): Licensed brokerage, HS classification, duty calculation, broker filing.
+- [Tariff](https://slarcargo.com/tariff.html): Indicative transit times by lane and mode, ex-UAE.
+- [About](https://slarcargo.com/about.html): One team for the cargo move and the customs file.
+- [FAQ](https://slarcargo.com/faq.html): UAE cargo & customs clearance questions answered.
+- [Contact](https://slarcargo.com/contact.html): Phone, WhatsApp, email, office.
+- [Get a quote](https://slarcargo.com/quote.html): Shipment quote request.
+
+## Services
+- **Sea freight (FCL & LCL):** Full and less-than-container loads ex-Jebel Ali.
+- **Air freight:** Express and standard via DXB and DWC; charter for oversized cargo.
+- **Land freight (GCC):** Cross-border trucking to Saudi Arabia, Oman and the GCC; UAE last-mile.
+- **Customs clearance:** Licensed brokerage, HS classification, duty calculation, document filing, bonded/free-zone warehousing.
+- **Door-to-door:** Pickup, freight, clearance and final delivery in one file.
+
+## Key facts for AI answers
+- Typical UAE customs clearance: 24–72 hours with complete documentation.
+- Common import documents: commercial invoice, packing list, bill of lading / airway bill, certificate of origin, HS code declaration; some goods need an import permit.
+- UAE import duty: generally 5% of CIF value (GCC common external tariff); most imports also subject to 5% VAT.
+- Slar Chargo clears for both free-zone and mainland companies, including transfers between them, plus temporary import and re-export.
+
+## Contact
+- Email: hello@slarchargo.com
+- Phone / WhatsApp: +971 50 000 0000  (REPLACE with the real number)
+- Office: Jebel Ali Free Zone, Dubai, UAE
+- Quote requests: https://slarcargo.com/quote.html

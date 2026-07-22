@@ -1,0 +1,17 @@
+{
+  "name": "Slar Chargo — Cargo & Customs Clearance in Dubai, UAE",
+  "short_name": "Slar Chargo",
+  "description": "Cargo movement and customs clearance across the UAE — sea, air and land freight plus licensed customs clearance. One team, one shipment file.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#050505",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["business", "logistics", "shipping"],
+  "icons": [
+    { "src": "/assets/slar-cargo-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/slar-cargo-icon-transparent.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
