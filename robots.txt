@@ -1,4 +1,4 @@
-# robots.txt — Slar Chargo (slarcargo.com)
+# robots.txt — Slar Cargo (slarcargo.com)
 
 # Search engines
 User-agent: Googlebot
@@ -10,7 +10,7 @@ Allow: /
 User-agent: Applebot
 Allow: /
 
-# AI / LLM crawlers — allowed so Slar Chargo can be cited in
+# AI / LLM crawlers — allowed so Slar Cargo can be cited in
 # ChatGPT, Claude, Perplexity, Gemini, Copilot and AI search.
 User-agent: GPTBot
 Allow: /
