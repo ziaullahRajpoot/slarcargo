@@ -1,14 +1,14 @@
-# Slar Chargo
+# Slar Cargo
 
 > Cargo movement and customs clearance across the UAE — one team, one shipment
-> file. Slar Chargo handles sea, air and land freight plus licensed customs
+> file. Slar Cargo handles sea, air and land freight plus licensed customs
 > clearance in Dubai and the wider UAE and GCC.
 
 This file follows the llms.txt convention (https://llmstxt.org/) to give AI
-assistants clean, quotable facts about Slar Chargo.
+assistants clean, quotable facts about Slar Cargo.
 
 ## About
-- **Company:** Slar Chargo (S L A R CARGO)
+- **Company:** Slar Cargo (S L A R CARGO)
 - **Location:** Jebel Ali, Dubai, United Arab Emirates
 - **What we do:** Freight forwarding + licensed customs clearance
 - **Service area:** UAE and GCC (import, export, transit, re-export)
@@ -36,10 +36,10 @@ assistants clean, quotable facts about Slar Chargo.
 - Typical UAE customs clearance: 24–72 hours with complete documentation.
 - Common import documents: commercial invoice, packing list, bill of lading / airway bill, certificate of origin, HS code declaration; some goods need an import permit.
 - UAE import duty: generally 5% of CIF value (GCC common external tariff); most imports also subject to 5% VAT.
-- Slar Chargo clears for both free-zone and mainland companies, including transfers between them, plus temporary import and re-export.
+- Slar Cargo clears for both free-zone and mainland companies, including transfers between them, plus temporary import and re-export.
 
 ## Contact
-- Email: hello@slarchargo.com
+- Email: hello@slarcargo.com
 - Phone / WhatsApp: +971 50 000 0000  (REPLACE with the real number)
 - Office: Jebel Ali Free Zone, Dubai, UAE
 - Quote requests: https://slarcargo.com/quote.html

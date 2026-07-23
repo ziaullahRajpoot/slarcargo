@@ -1,5 +1,5 @@
 /* =============================================================
-   Slar Chargo — app.js
+   Slar Cargo — app.js
    Lucide icons · mobile nav · image sliders · WhatsApp forms
    ============================================================= */
 (function () {
@@ -67,7 +67,7 @@
         }
         if (errEl) errEl.style.display = "none";
 
-        var title = form.getAttribute("data-sc-title") || "New message, Slar Chargo";
+        var title = form.getAttribute("data-sc-title") || "New message, Slar Cargo";
         var lines = [title];
         fields.forEach(function (el) {
           var label = el.getAttribute("data-sc-label") || el.name || "";

@@ -1,4 +1,4 @@
-# Slar Chargo — slarcargo.com
+# Slar Cargo — slarcargo.com
 
 Static marketing site for a Dubai cargo & customs-clearance company, converted
 1:1 from the Claude Design project (`.dc.html` component files) into plain,
@@ -32,8 +32,8 @@ correct `wa.me` deep link.
 - **WhatsApp / phone:** `971500000000` and `+971 50 000 0000` appear in every
   page (footer, WhatsApp float, contact/quote) and in `app.js` (`WHATSAPP` const)
   and `llms.txt`. Search-and-replace all of them with the real number.
-- **Email:** `hello@slarchargo.com` — confirm the real address (note the domain
-  is `slarchargo.com` in the design but the site domain is `slarcargo.com`).
+- **Email:** `hello@slarcargo.com` — confirm the real address (note the domain
+  is `slarcargo.com` in the design but the site domain is `slarcargo.com`).
 - **Social links:** Instagram / Facebook / TikTok `href="#"` in nav + footer.
 - **Office address:** currently "Jebel Ali Free Zone, Dubai, UAE" — set the exact
   address; also the geo coordinates in the JSON-LD (generic Jebel Ali area now).
@@ -44,8 +44,8 @@ correct `wa.me` deep link.
   the `og:image` / `twitter:image` tags at it (they currently use the logo).
 
 ## ⚠️ Brand / domain naming
-The design consistently uses **"Slar Chargo"** (with an *h*) and the email
-`hello@slarchargo.com`, but the deploy domain / folder is **slarcargo.com**
+The design consistently uses **"Slar Cargo"** (with an *h*) and the email
+`hello@slarcargo.com`, but the deploy domain / folder is **slarcargo.com**
 (no *h*). I kept the design's wording verbatim and used `slarcargo.com` for
 canonical URLs, sitemap and structured data. Decide which spelling is correct and
 align them (brand text, email domain, canonical host) before launch.
